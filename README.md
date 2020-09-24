@@ -1,2 +1,5 @@
 # rising
-attempt to fumble our way into using git on WP
+
+at least we have a key pair sorted out with the Pantheon servers.
+
+
